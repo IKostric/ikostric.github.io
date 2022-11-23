@@ -8,4 +8,4 @@ jsconfig.json
 node_modules/
 
 # mac
-.DS_store
+**/.DS_store
