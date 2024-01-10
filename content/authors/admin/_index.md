@@ -75,6 +75,6 @@ email: "ivica.kostric@uis.no"
 highlight_name: true
 ---
 
-I am a second-year PhD student in conversational AI at the University of Stavanger. My research interests include conversational search, conversational recommender systems, information retrieval, and natural language processing. I am a member of IAI research group at the University of Stavanger.
+I am a third-year PhD student in conversational AI at the University of Stavanger. My research interests include conversational search, conversational recommender systems, information retrieval, and natural language processing. I am a member of IAI research group at the University of Stavanger.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ivica_Kostric_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
