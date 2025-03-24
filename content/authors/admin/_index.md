@@ -49,16 +49,15 @@ interests:
   - Natural Language Processing
 
 education:
-  courses:
-    - course: PhD in Conversational AI
-      institution: University of Stavanger
-      year: started 2021
-    - course: Master in Applied Data Science
-      institution: University of Stavanger
-      year: 2021
-    - course: BSc in Electrical Engineering
-      institution: University of Stavanger
-      year: 2019
+  - area: PhD in Conversational AI
+    institution: University of Stavanger
+    year: started 2021
+  - area: Master in Applied Data Science
+    institution: University of Stavanger
+    year: 2021
+  - area: BSc in Electrical Engineering
+    institution: University of Stavanger
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
