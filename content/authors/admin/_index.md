@@ -185,5 +185,5 @@ languages:
 
 ## About Me
 
-I am a final-year PhD student in conversational AI at the University of Stavanger under the supervision of [Krisztian Balog](https://krisztianbalog.com/). My research interests include conversational search, conversational recommender systems, information retrieval, and natural language processing. I am a member of IAI research group at the University of Stavanger.
+I am a final-year PhD student in Conversational AI at the University of Stavanger, where I work under the supervision of Professor [Krisztian Balog](https://krisztianbalog.com/). My research interests lie in conversational search, conversational recommender systems, information retrieval, and natural language processing. I am also a member of the IAI research group at the University of Stavanger.
 
