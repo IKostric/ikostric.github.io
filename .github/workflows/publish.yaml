@@ -7,9 +7,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read   # To clone the repository
-  pages: write     # Not required by this method, but safe to include
-  id-token: write  # Not required by this method
+  contents: write     # <-- Grant write access for deployments
+  id-token: write     # If OpenID Connect is needed for other actions
 
 jobs:
   build-and-deploy:
