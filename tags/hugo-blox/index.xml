@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Blox | Ivica Kostric</title><link>/tags/hugo-blox/</link><atom:link href="/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml"/><description>Hugo Blox</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu_645fa481986063ef.png</url><title>Hugo Blox</title><link>/tags/hugo-blox/</link></image><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>/post/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Blox | Ivica Kostric</title><link>/tags/hugo-blox/</link><atom:link href="/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml"/><description>Hugo Blox</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu7729264130191091259.png</url><title>Hugo Blox</title><link>/tags/hugo-blox/</link></image><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>/post/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
 &lt;details class="print:hidden xl:hidden" open>
 &lt;summary>Table of Contents&lt;/summary>
 &lt;div class="text-sm">
@@ -11,7 +11,7 @@
 &lt;/li>
 &lt;li>&lt;a href="#crowd-funded-open-source-software">Crowd-funded open-source software&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#-click-here-to-become-a-sponsor-and-help-support-hugo-blox">&lt;a href="https://hugoblox.com/sponsor/">❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a>&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor">&lt;a href="https://hugoblox.com/sponsor/">❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a>&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="#ecosystem">Ecosystem&lt;/a>&lt;/li>
@@ -40,7 +40,7 @@
 &lt;/ul>
 &lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
 &lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
-&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-hugo-blox">&lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor">&lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
 &lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
 &lt;h2 id="ecosystem">Ecosystem&lt;/h2>
 &lt;ul>
@@ -77,7 +77,7 @@
 &lt;p>Hugo Blox supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-938761542" class="chart">&lt;/div>
+&lt;div id="chart-981623745" class="chart">&lt;/div>
 &lt;script>
 async function fetchChartJSON() {
 console.debug('Hugo Blox fetching chart JSON...')
@@ -93,7 +93,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-938761542', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-981623745', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
